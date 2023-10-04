@@ -1,0 +1,35 @@
+#allie {
+    
+    padding-bottom: 10px; 
+    background-color: #fff !important;
+}
+body > main > div.slider-area > div > div > div > div.single-slider.slider-height.slider-padding.sky-blue.d-flex.align-items-center.slick-slide.slick-current.slick-active > div > div > div.col-lg-6.col-md-9 > div > div > a.popup-video.video-btn.ani-btn{
+    background: #212529;
+}
+
+body > main > section.best-features-area.section-padd2 > div > div > div > div:nth-child(2){
+    
+    padding: 0 70px;
+}
+
+body > main > section.best-features-area.section-padd2 > div{
+    background-color: #f4feff;
+    padding-top: 50px;
+}
+
+#Oukalê{
+    
+    padding-bottom: 150px;
+}
+
+body > main > div.applic-apps.section-padding2{
+    background-color: #f4feff;
+    padding-bottom: 10px;
+    margin-bottom: 100px;
+}
+
+
+/* body > main > section.best-features-area.section-padd2{
+    background-color: blueviolet;
+    margin-top: 0px;
+} */
